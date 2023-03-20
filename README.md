@@ -1,7 +1,9 @@
 This repository was tested on **Tensorrt 8.4.1-1** and **CUDA-11.4**  
-  
-  Build Project  
+   Create Engine Files  
+_**bash convertmodel.sh**_        
+  Build Project    
 _**cd build && cmake .. && make -j**_    
+
 
 It builds 6 executibles  
 
