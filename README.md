@@ -1,5 +1,5 @@
 Build Project  
-cd build && cmake .. && make -j  
+**cd build && cmake .. && make -j  **  
 It builds 6 executibles  
 
 | Executible            | Description                                                      |
