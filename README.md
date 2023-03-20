@@ -1,4 +1,4 @@
-Build Project
+Build Project \r\n
 cd build && cmake .. && make -j
 
 It builds 6 executibles
