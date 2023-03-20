@@ -1,7 +1,6 @@
-Build Project \r\n
-cd build && cmake .. && make -j
-
-It builds 6 executibles
+Build Project__
+cd build && cmake .. && make -j__
+It builds 6 executibles__
 
 | Executible            | Description                                                      |
 |-----------------------|------------------------------------------------------------------|
